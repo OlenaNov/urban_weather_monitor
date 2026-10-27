@@ -1,4 +1,3 @@
-
 # UrbanWeathr Monitor 🌤️📊
 
 A real-time urban weather monitoring application built with clean Python architecture, powered by high-precision data from the **Open-Meteo API**, and featuring an interactive, reactive UI built with **Streamlit**.
@@ -30,6 +29,8 @@ A real-time urban weather monitoring application built with clean Python archite
 ---
 
 ## 📦 Repository Structure
+
+TODO: Modificare la struttura
 
 ```text
 urbanweathr-monitor/
